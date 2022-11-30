@@ -1,3 +1,4 @@
 Hello Git!
 123
-It dfr
+It commit
+Add new line
