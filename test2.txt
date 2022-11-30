@@ -2,4 +2,4 @@ Hello Git!
 123
 It commit
 Add new line
-New changes
+New changes!
