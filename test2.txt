@@ -1,5 +1,5 @@
 Hello Git!
 123
 It commit
-Add new line
+Add new line!
 New changes!
